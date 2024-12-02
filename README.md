@@ -67,7 +67,21 @@ jupyter notebook umarl-demo.ipynb
 Modify `schema.py` to add new log types or update existing schema specifications.
 
 ## Dataset
-- **CERT Insider Threat Dataset**: Place the dataset files (`logon.csv`, `file.csv`, etc.) in the root directory.
+- **CERT Insider Threat Dataset**: The dataset can be downloaded from the [CERT Data Repository](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099). Place the dataset files (`logon.csv`, `file.csv`, etc.) inside the `multi-agent` folder in the repository.
+
+#### Steps to Download and Set Up the Dataset
+1. Visit the [CERT Data Repository](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=508099).
+2. Download the required dataset version (e.g., r4.1).
+3. Extract the dataset files.
+4. Move the following files into the `multi-agent` directory:
+   - `logon.csv`
+   - `file.csv`
+   - `email.csv`
+   - `device.csv`
+   - `http.csv`
+   - `psychometric.csv`
+   - `answers/r4.1-1.csv`
+
 
 ## Agents Overview
 
