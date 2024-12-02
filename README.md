@@ -1,8 +1,5 @@
 # UMARL-ITD: Uncertainty-Aware Multi-Agent Reinforcement Learning for Insider Threat Detection
 
-
-# UMARL-ITD: Uncertainty-Aware Multi-Agent Reinforcement Learning for Insider Threat Detection
-
 ## Overview
 UMARL-ITD is an advanced multi-agent system designed for insider threat detection. Leveraging Uncertainty-Aware Reinforcement Learning (UMARL), this framework uses state-of-the-art techniques to detect suspicious activities in large-scale datasets, such as the CERT Insider Threat Dataset. The system decomposes tasks, applies RL to build tools dynamically, and aggregates results for actionable insights.
 
